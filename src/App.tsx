@@ -204,10 +204,21 @@ const MainContent: React.FC<{ mobile?: boolean }> = ({ mobile }) => {
             こちら
           </a>
           をご参考にお願いします。
+          <br />
+          また、送金は
+          <strong>「PayPayマネー」</strong>の残高からお願いいたします。 詳しくは
+          <a
+            href="https://paypay.ne.jp/help/c0048/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            こちら
+          </a>
+          をご確認ください。
         </Paragraph>
         <Paragraph center>
           <a
-            href="https://qr.paypay.ne.jp/YL2uKGbMZL1GgXtC"
+            href="https://qr.paypay.ne.jp/G6ACV3SqISErL4qo"
             target="_blank"
             rel="noopener noreferrer"
           >
