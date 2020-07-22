@@ -14,6 +14,24 @@ const tracks = [
     isKaho: true,
   },
   {
+    title: "Two Of Us",
+    artist: "The Beatles",
+    url: "https://www.youtube.com/watch?v=cLQox8e9688",
+    isKaho: false,
+  },
+  {
+    title: "happiness!!!",
+    artist: "木村カエラ",
+    url: "https://www.youtube.com/watch?v=VrV8ZZwP1Nw",
+    isKaho: true,
+  },
+  {
+    title: "Me & You Together Song",
+    artist: "The 1975",
+    url: "https://www.youtube.com/watch?v=NF47oaT6qzc",
+    isKaho: true,
+  },
+  {
     title: "瀬戸の花嫁",
     artist: "小柳ルミ子",
     url: "https://www.youtube.com/watch?v=JUVNv-pwAiE",
@@ -78,14 +96,8 @@ const tracks = [
   },
   {
     title: "夜空の星",
-    artist: "KAKATO(環ROIx鎮座DOPENESS)",
+    artist: "KAKATO(環ROYx鎮座DOPENESS)",
     url: "https://www.youtube.com/watch?v=8h4P9vxGMMg",
-    isKaho: false,
-  },
-  {
-    title: "If You Say You Love Me",
-    artist: "El Presidente",
-    url: "https://www.youtube.com/watch?v=YFT2JkGveQw",
     isKaho: false,
   },
   {
@@ -94,9 +106,9 @@ const tracks = [
     isKaho: true,
   },
   {
-    title: "ばらの花 x ネイティブダンサー",
-    artist: "yui x ミゾベリョウ",
-    url: "https://www.youtube.com/watch?v=tUe6YedzjlM",
+    title: "If You Say You Love Me",
+    artist: "El Presidente",
+    url: "https://www.youtube.com/watch?v=YFT2JkGveQw",
     isKaho: false,
   },
   {
@@ -106,9 +118,9 @@ const tracks = [
     isKaho: true,
   },
   {
-    title: "ミレニアム",
-    artist: "ラブリーサマーちゃん",
-    url: "https://www.youtube.com/watch?v=_eCbH6oWvk8",
+    title: "ばらの花 x ネイティブダンサー",
+    artist: "yui x ミゾベリョウ",
+    url: "https://www.youtube.com/watch?v=tUe6YedzjlM",
     isKaho: false,
   },
   {
@@ -118,9 +130,9 @@ const tracks = [
     isKaho: true,
   },
   {
-    title: "She's Electric",
-    artist: "Oasis",
-    url: "https://www.youtube.com/watch?v=h9JZWhjQDvc",
+    title: "ミレニアム",
+    artist: "ラブリーサマーちゃん",
+    url: "https://www.youtube.com/watch?v=_eCbH6oWvk8",
     isKaho: false,
   },
   {
@@ -130,15 +142,27 @@ const tracks = [
     isKaho: true,
   },
   {
-    title: "渚",
-    artist: "スピッツ",
-    url: "https://www.youtube.com/watch?v=B7T4NNNWeHg",
+    title: "She's Electric",
+    artist: "Oasis",
+    url: "https://www.youtube.com/watch?v=h9JZWhjQDvc",
     isKaho: false,
   },
   {
     title: "お嫁においで 2015",
     artist: "加山雄三 feat. PUNPEE",
     url: "https://www.youtube.com/watch?v=gLS_4iPoZ40",
+    isKaho: true,
+  },
+  {
+    title: "渚",
+    artist: "スピッツ",
+    url: "https://www.youtube.com/watch?v=B7T4NNNWeHg",
+    isKaho: false,
+  },
+  {
+    title: "光はわたしのなか",
+    artist: "Lucky Kilimanjaro",
+    url: "https://www.youtube.com/watch?v=C5SHFXA9tdA",
     isKaho: true,
   },
   {
@@ -289,6 +313,12 @@ const tracks = [
     artist: "星野源",
     url: "https://www.youtube.com/watch?v=K2PVq10dsiM",
     isKaho: false,
+  },
+  {
+    title: "明るい未来",
+    artist: "never young beach",
+    url: "https://www.youtube.com/watch?v=PL9-6rClgXs",
+    isKaho: true,
   },
 ];
 
