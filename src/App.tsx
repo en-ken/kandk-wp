@@ -217,20 +217,11 @@ const MainContent: React.FC<{ mobile?: boolean }> = ({ mobile }) => {
           をご確認ください。
         </Paragraph>
         <Paragraph center>
-          <a
-            href="https://qr.paypay.ne.jp/G6ACV3SqISErL4qo"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img
-              src="paypay.jpg"
-              alt="Q.E.D.CLUB"
-              style={{
-                fontWeight: "normal",
-                width: mobile ? "90%" : "350px",
-              }}
-            />
-          </a>
+          <strong style={{ color: "#FF8E16" }}>
+            PayPayでの事前受付は終了させていただきました。
+            <br />
+            ありがとうございました。
+          </strong>
         </Paragraph>
       </Section>
     </>
